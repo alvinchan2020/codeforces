@@ -67,3 +67,9 @@ cabal.project.local~
 .ghc.environment.*
 
 Main
+
+# Typescript
+node_modules/
+package.json
+package-lock.json
+tsconfig.json
